@@ -1,0 +1,7 @@
+{
+  "name": "REMINDERPRO",
+  "description": "A WhatsApp-integrated student job reminder tool for educational institutions to automate job alerts, application deadlines, and interview schedules.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
